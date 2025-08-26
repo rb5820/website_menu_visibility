@@ -1,7 +1,7 @@
 # Copyright 2024, Kubang AB, Lasse Larsson
 {
     'name': 'Website Menu Visibility',
-    'version': '1.0',
+    'version': '18.0.0.0',
     'author': 'Kubang AB, Lasse Larsson',
     'summary': 'Enhances website menu visibility based on user group',
     'license': 'LGPL-3',
